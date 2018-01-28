@@ -1,0 +1,18 @@
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\obj\Debug\H-BingTranslator.csprojResolveAssemblyReference.cache
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\obj\Debug\H_BingTranslator.Form1.resources
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\obj\Debug\H_BingTranslator.Properties.Resources.resources
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\obj\Debug\H-BingTranslator.csproj.GenerateResource.Cache
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\bin\Debug\H-BingTranslator.exe.config
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\bin\Debug\H-BingTranslator.exe
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\bin\Debug\H-BingTranslator.pdb
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\obj\Debug\H-BingTranslator.exe
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-BingTranslator\obj\Debug\H-BingTranslator.pdb
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\bin\Debug\H-BingTranslator.exe.config
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\obj\Debug\H-BingTranslator.exe
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\obj\Debug\H-BingTranslator.pdb
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\obj\Debug\H-BingTranslator.csprojResolveAssemblyReference.cache
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\obj\Debug\H_BingTranslator.Form1.resources
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\obj\Debug\H_BingTranslator.Properties.Resources.resources
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\obj\Debug\H-BingTranslator.csproj.GenerateResource.Cache
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\bin\Debug\H-BingTranslator.exe
+D:\Visual-Studio\C#.Net\H-BingTranslator\H-BingTranslator\bin\Debug\H-BingTranslator.pdb
